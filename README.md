@@ -9,7 +9,6 @@
 - **Tools:** Git, GitHub
 
 ### 📂 Projects
-- [Trip Junction](link-to-your-trip-junction-repo) — Online travel website  
 - DSA practice — Java DSA solutions repository
 
 ### 📫 Connect
